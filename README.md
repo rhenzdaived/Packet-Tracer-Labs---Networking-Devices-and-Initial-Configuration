@@ -7,12 +7,10 @@ This repository contains Cisco Packet Tracer lab activities for the NDAIC (Netwo
 The following labs are included in this repository:
 
 ### 1. Implement Basic Connectivity (`Implement Basic Connectivity.pka`)
-- **Commit**: `dd60592` - "Lab: Add initial implementation of Basic Connectivity"
 - **Focus**: Fundamental network connectivity concepts, including device setup and basic IP configuration
 - **Skills**: Setting up end devices, routers, and establishing basic IP connectivity
 
 ### 2. Test and Correct Network Connectivity using ICMP (`_Use ICMP to Test and Correct Network Connectivity.pka`)
-- **Commit**: `91a9abe` - "Lab: Test and Correct Network Connectivity using ICMP"
 - **Focus**: Using Internet Control Message Protocol (ICMP) to test and troubleshoot network connectivity
 - **Skills**: Using `ping` and `traceroute`/`tracert` commands, interpreting ICMP responses, diagnosing connectivity issues
 
